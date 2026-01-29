@@ -1,0 +1,285 @@
+{
+    "accounts": [
+        {
+            "name": "Cash",
+            "color": -15414114,
+            "icon": "cash",
+            "id": "4500d7f7-c1d1-4251-abfa-c587af201bf8"
+        },
+        {
+            "name": "Bank",
+            "color": -13293952,
+            "icon": "bank",
+            "orderNum": 1.0,
+            "id": "032b1be9-2090-4d87-9955-3920dccc3d29"
+        }
+    ],
+    "categories": [
+        {
+            "name": "Food & Drinks",
+            "color": -15414114,
+            "icon": "fooddrink",
+            "id": "c83f2eba-8bfc-4eee-9e9e-b49cc873a007"
+        },
+        {
+            "name": "Bills & Fees",
+            "color": -49056,
+            "icon": "bills",
+            "orderNum": 1.0,
+            "id": "03630d87-5ca5-4747-bf75-2db3adb458f5"
+        },
+        {
+            "name": "Transport",
+            "color": -2151,
+            "icon": "transport",
+            "orderNum": 2.0,
+            "id": "37e28b25-f624-42c1-9161-0c67aa12d97b"
+        },
+        {
+            "name": "Groceries",
+            "color": -5573920,
+            "icon": "groceries",
+            "orderNum": 3.0,
+            "id": "0f45ec1a-d0fa-4eb5-bc61-2cd80a012fe3"
+        },
+        {
+            "name": "Entertainment",
+            "color": -876752,
+            "icon": "game",
+            "orderNum": 4.0,
+            "id": "b449358f-d87b-4401-994b-0f0ed63c5c87"
+        },
+        {
+            "name": "Shopping",
+            "color": -9744897,
+            "icon": "shopping",
+            "orderNum": 5.0,
+            "id": "374af472-318f-4651-aa1a-b53b3d45776a"
+        },
+        {
+            "name": "Gifts",
+            "color": -13099,
+            "icon": "gift",
+            "orderNum": 6.0,
+            "id": "ef33df35-122e-455f-b5a8-57afbb91e0bd"
+        },
+        {
+            "name": "Health",
+            "color": -2765569,
+            "icon": "health",
+            "orderNum": 7.0,
+            "id": "6211d720-57a6-44a0-acdb-247ffe91098d"
+        },
+        {
+            "name": "Investments",
+            "color": -13293952,
+            "icon": "leaf",
+            "orderNum": 8.0,
+            "id": "0a478f35-b020-47e7-9e43-3d644ff6639c"
+        },
+        {
+            "name": "Loans",
+            "color": -14261632,
+            "icon": "loan",
+            "orderNum": 9.0,
+            "id": "198651fa-752c-43bd-99a2-11e17e26eacd"
+        }
+    ],
+    "settings": [
+        {
+            "theme": "LIGHT",
+            "currency": "USD",
+            "bufferAmount": 1000.0,
+            "name": "Patrio",
+            "id": "93c124e5-d309-46a1-8f49-e205142ce7fb"
+        }
+    ],
+    "transactions": [
+        {
+            "accountId": "",
+            "type": "EXPENSE",
+            "amount": 0,
+            "toAmount": 0,
+            "title": "bag",
+            "description": "",
+            "categoryId": "",
+            "toAccountId": "",
+            "dateTime": 1769644800000,
+            "id": ""
+        },
+        {
+            "accountId": "",
+            "type": "EXPENSE",
+            "amount": 0,
+            "toAmount": 0,
+            "title": "cab",
+            "description": "",
+            "categoryId": "",
+            "toAccountId": "",
+            "dateTime": 1769558502506,
+            "id": ""
+        },
+        {
+            "accountId": "",
+            "type": "EXPENSE",
+            "amount": 0,
+            "toAmount": 0,
+            "title": "Return",
+            "description": "",
+            "categoryId": "",
+            "toAccountId": "",
+            "dateTime": 1769472102506,
+            "id": ""
+        },
+        {
+            "accountId": "",
+            "type": "EXPENSE",
+            "amount": 0,
+            "toAmount": 0,
+            "title": "accidental coverage",
+            "description": "",
+            "categoryId": "",
+            "toAccountId": "",
+            "dateTime": 1769212842506,
+            "id": ""
+        },
+        {
+            "accountId": "",
+            "type": "EXPENSE",
+            "amount": 0,
+            "toAmount": 0,
+            "title": "401k",
+            "description": "",
+            "categoryId": "",
+            "toAccountId": "",
+            "dateTime": 1769126382506,
+            "id": ""
+        },
+        {
+            "accountId": "",
+            "type": "EXPENSE",
+            "amount": 0,
+            "toAmount": 0,
+            "title": "VR",
+            "description": "",
+            "categoryId": "",
+            "toAccountId": "",
+            "dateTime": 1768262562506,
+            "id": ""
+        },
+        {
+            "accountId": "",
+            "type": "EXPENSE",
+            "amount": 0,
+            "toAmount": 0,
+            "title": "TV set",
+            "description": "",
+            "categoryId": "",
+            "toAccountId": "",
+            "dateTime": 1767312162506,
+            "id": ""
+        },
+        {
+            "accountId": "",
+            "type": "EXPENSE",
+            "amount": 0,
+            "toAmount": 0,
+            "title": "Back to Bank",
+            "description": "",
+            "categoryId": "",
+            "toAccountId": "",
+            "dateTime": 1766846656407,
+            "id": ""
+        },
+        {
+            "accountId": "",
+            "type": "EXPENSE",
+            "amount": 0,
+            "toAmount": 0,
+            "title": "CD",
+            "description": "",
+            "categoryId": "",
+            "toAccountId": "",
+            "dateTime": 1766760222506,
+            "id": ""
+        },
+        {
+            "accountId": "",
+            "type": "EXPENSE",
+            "amount": 0,
+            "toAmount": 0,
+            "title": "Regular Groceries",
+            "description": "",
+            "categoryId": "",
+            "toAccountId": "",
+            "dateTime": 1766673762506,
+            "id": ""
+        },
+        {
+            "accountId": "",
+            "type": "EXPENSE",
+            "amount": 0,
+            "toAmount": 0,
+            "title": "Internet",
+            "description": "",
+            "categoryId": "",
+            "toAccountId": "",
+            "dateTime": 1766500962506,
+            "id": ""
+        },
+        {
+            "accountId": "",
+            "type": "EXPENSE",
+            "amount": 0,
+            "toAmount": 0,
+            "title": "From Bank",
+            "description": "",
+            "categoryId": "",
+            "toAccountId": "",
+            "dateTime": 1766414502506,
+            "id": ""
+        },
+        {
+            "accountId": "",
+            "type": "EXPENSE",
+            "amount": 0,
+            "toAmount": 0,
+            "title": "Found",
+            "description": "",
+            "categoryId": "",
+            "toAccountId": "",
+            "dateTime": 1766275422506,
+            "id": ""
+        },
+        {
+            "accountId": "",
+            "type": "EXPENSE",
+            "amount": 0,
+            "toAmount": 0,
+            "title": "Coke",
+            "description": "",
+            "categoryId": "",
+            "toAccountId": "",
+            "dateTime": 1766241702506,
+            "id": ""
+        },
+        {
+            "accountId": "",
+            "type": "EXPENSE",
+            "amount": 0,
+            "toAmount": 0,
+            "title": "Investment",
+            "description": "",
+            "categoryId": "",
+            "toAccountId": "",
+            "dateTime": 1766069082506,
+            "id": ""
+        }
+    ],
+    "sharedPrefs": {
+        "transfers_as_inc_exp": "false",
+        "show_notifications": "true",
+        "hide_current_balance": "false",
+        "lock_app": "false"
+    }
+}
